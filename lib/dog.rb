@@ -7,4 +7,3 @@ class Dog
     puts "woof!"
   end
 end
-© 2019 GitHub, I
